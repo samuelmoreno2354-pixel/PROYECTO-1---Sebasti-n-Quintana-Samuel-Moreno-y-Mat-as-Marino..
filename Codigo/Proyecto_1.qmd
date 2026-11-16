@@ -1,6 +1,6 @@
 ---
 title: "Proyecto 1 — Infraestructura vial y ferroviaria en Colombia: distribución de la carga movilizada y la inversión pública, 2016–2024"
-subtitle: "Repositorio del proyecto: <https://github.com/mati020406-sys/Proyecto-grupo-1->"
+subtitle: "Repositorio del proyecto: <https://github.com/samuelmoreno2354-pixel/PROYECTO-1---Sebasti-n-Quintana-Samuel-Moreno-y-Mat-as-Marino...git>"
 author:
   - "Sebastián Quintana"
   - "Samuel Moreno"
